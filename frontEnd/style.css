@@ -1,0 +1,26 @@
+span {
+    border:solid 1px black
+}
+
+div{
+    max-width:200px;
+}
+
+#notepad-container {
+    display: flex;
+  }
+  
+#notepad-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+.note-textarea{
+    height:100%
+}
+
+div#notepad{
+    background-color: aqua;
+    padding-bottom: 70%
+}
